@@ -1,0 +1,9 @@
+[submodule ".obsidian/plugins/task-base"]
+	path = .obsidian/plugins/task-base
+	url = https://github.com/nikolai39B/TaskBase.git
+[submodule ".obsidian/plugins/pluginUtilsCommon"]
+	path = .obsidian/plugins/pluginUtilsCommon
+	url = https://github.com/nikolai39B/PluginUtilsCommon.git
+[submodule ".obsidian/plugins/programmatic-bases"]
+	path = .obsidian/plugins/programmatic-bases
+	url = https://github.com/nikolai39B/ProgrammaticBases.git
