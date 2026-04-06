@@ -11,10 +11,14 @@
             "id": "59c6b3db0505f950",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Core/Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Dashboard"
             }
           }
         ]
@@ -178,6 +182,8 @@
   },
   "active": "59c6b3db0505f950",
   "lastOpenFiles": [
+    "Templates/Core/Daily.md",
+    "Welcome.md",
     "Templates/Bases/templates/view/focused.yaml",
     "Templates/Bases/templates/formula/category.yaml",
     "Templates/Bases/templates/propertyDisplay/taskProperties.yaml",
@@ -188,7 +194,6 @@
     "Templates/Bases/templates/filter/notTemplate.yaml",
     "Templates/Bases/templates/filter/pastWeek.yaml",
     "Templates/Bases/templates/filter/isTask.yaml",
-    "Templates/Bases/templates/filter/inThisFolder.yaml",
     "Templates/Bases/embedded.md",
     "Templates/Templater/Scratch/Testing.md",
     "Templates/Templater/Scratch/Untitled.md",
@@ -197,8 +202,6 @@
     "Templates/Core/Weekly.md",
     "Templates/Core/Dashboard.md",
     "Templates/Core/Task.md",
-    "Templates/Core/Daily.md",
-    "Bases/embedded.md",
-    "Welcome.md"
+    "Bases/embedded.md"
   ]
 }
