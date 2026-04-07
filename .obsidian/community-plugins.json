@@ -1,5 +1,6 @@
 [
   "js-engine",
   "customjs",
-  "programmatic-bases"
+  "programmatic-bases",
+  "task-base"
 ]

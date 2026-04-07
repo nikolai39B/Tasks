@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Scratch/output/bases/dashboard.base",
+                "file": "Scratch/output/bases/tb_dashboard.base",
                 "viewName": "Focused"
               },
               "icon": "lucide-layout-grid",
-              "title": "dashboard"
+              "title": "tb_dashboard"
             }
           }
         ]
@@ -181,9 +181,10 @@
   },
   "active": "59c6b3db0505f950",
   "lastOpenFiles": [
+    "Scratch/output/bases/dashboard.base",
+    "Scratch/output/bases/tb_dashboard.base",
     "Templates/ProgrammaticBases/components/formula/links.yaml.tmp.12912.1775518554751",
     "Templates/Core/Daily.md",
-    "Scratch/output/bases/dashboard.base",
     "Scratch/output/bases",
     "Scratch/output",
     "Scratch",
@@ -192,7 +193,6 @@
     "Templates/ProgrammaticBases/components/view/focused.yaml",
     "Templates/ProgrammaticBases/components/view/due.yaml",
     "Templates/ProgrammaticBases/components/view",
-    "Templates/ProgrammaticBases/components/propertyDisplay/taskProperties.yaml",
     "Templates/Core/Task.md",
     "Templates/Core/Weekly.md",
     "Templates/Core/Dashboard.md",
