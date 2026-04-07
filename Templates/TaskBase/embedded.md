@@ -1,2 +1,0 @@
-# Test Base
-![[testBase.base]]

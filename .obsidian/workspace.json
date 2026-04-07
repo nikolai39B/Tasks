@@ -11,14 +11,13 @@
             "id": "59c6b3db0505f950",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Templates/Core/Dashboard.md",
-                "mode": "source",
-                "source": false
+                "file": "Scratch/output/bases/dashboard.base",
+                "viewName": "Focused"
               },
-              "icon": "lucide-file",
-              "title": "Dashboard"
+              "icon": "lucide-layout-grid",
+              "title": "dashboard"
             }
           }
         ]
@@ -182,26 +181,27 @@
   },
   "active": "59c6b3db0505f950",
   "lastOpenFiles": [
+    "Templates/ProgrammaticBases/components/formula/links.yaml.tmp.12912.1775518554751",
     "Templates/Core/Daily.md",
+    "Scratch/output/bases/dashboard.base",
+    "Scratch/output/bases",
+    "Scratch/output",
+    "Scratch",
+    "Templates/ProgrammaticBases/components/view/unresolved.yaml",
+    "Templates/ProgrammaticBases/components/view/resolved.yaml",
+    "Templates/ProgrammaticBases/components/view/focused.yaml",
+    "Templates/ProgrammaticBases/components/view/due.yaml",
+    "Templates/ProgrammaticBases/components/view",
+    "Templates/ProgrammaticBases/components/propertyDisplay/taskProperties.yaml",
+    "Templates/Core/Task.md",
+    "Templates/Core/Weekly.md",
+    "Templates/Core/Dashboard.md",
     "Welcome.md",
-    "Templates/Bases/templates/view/focused.yaml",
-    "Templates/Bases/templates/formula/category.yaml",
-    "Templates/Bases/templates/propertyDisplay/taskProperties.yaml",
-    "Templates/Bases/templates/formula/resolved.yaml",
-    "Templates/Bases/templates/formula/links.yaml",
-    "Templates/Bases/templates/formula/effort.yaml",
-    "Templates/Bases/templates/formula/color.yaml",
-    "Templates/Bases/templates/filter/notTemplate.yaml",
-    "Templates/Bases/templates/filter/pastWeek.yaml",
-    "Templates/Bases/templates/filter/isTask.yaml",
     "Templates/Bases/embedded.md",
     "Templates/Templater/Scratch/Testing.md",
     "Templates/Templater/Scratch/Untitled.md",
     "Templates/Templater/Scratch/Testing 2.md",
     "Templates/Templater/Dashboard.md",
-    "Templates/Core/Weekly.md",
-    "Templates/Core/Dashboard.md",
-    "Templates/Core/Task.md",
     "Bases/embedded.md"
   ]
 }

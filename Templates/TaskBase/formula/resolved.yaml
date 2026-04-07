@@ -1,1 +1,0 @@
-Resolved: if(file.properties["_resolved"], "Yes", "No")
