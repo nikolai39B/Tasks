@@ -11,13 +11,14 @@
             "id": "59c6b3db0505f950",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Scratch/output/bases/tb_dashboard.base",
-                "viewName": "Focused"
+                "file": "Tasks/projects/task_base/Create settings.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "tb_dashboard"
+              "icon": "lucide-file",
+              "title": "Create settings"
             }
           }
         ]
@@ -181,18 +182,21 @@
   },
   "active": "59c6b3db0505f950",
   "lastOpenFiles": [
-    "Scratch/output/bases/dashboard.base",
+    "Tasks/personal/Get some exercise.md",
+    "Tasks/projects/task_base/Create settings.md",
+    "Tasks/personal",
+    "Tasks/Tasks/projects/task_base/Create settings 2.md",
+    "Tasks/Tasks/projects/task_base",
+    "Tasks/Tasks/projects",
+    "Tasks/Tasks",
+    "Tasks/projects/task_base",
+    "Tasks/projects",
+    "hello/Task name.md",
+    "Tasks",
     "Scratch/output/bases/tb_dashboard.base",
-    "Templates/ProgrammaticBases/components/formula/links.yaml.tmp.12912.1775518554751",
+    "hello",
+    "Scratch/output/bases/dashboard.base",
     "Templates/Core/Daily.md",
-    "Scratch/output/bases",
-    "Scratch/output",
-    "Scratch",
-    "Templates/ProgrammaticBases/components/view/unresolved.yaml",
-    "Templates/ProgrammaticBases/components/view/resolved.yaml",
-    "Templates/ProgrammaticBases/components/view/focused.yaml",
-    "Templates/ProgrammaticBases/components/view/due.yaml",
-    "Templates/ProgrammaticBases/components/view",
     "Templates/Core/Task.md",
     "Templates/Core/Weekly.md",
     "Templates/Core/Dashboard.md",
