@@ -11,14 +11,10 @@
             "id": "59c6b3db0505f950",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/projects/task_base/Create settings.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Create settings"
+              "title": "New tab"
             }
           }
         ]
@@ -182,8 +178,12 @@
   },
   "active": "59c6b3db0505f950",
   "lastOpenFiles": [
-    "Tasks/personal/Get some exercise.md",
+    "projects/task_base/Create settings.base",
+    "Tasks/projects/task_base/dashboard.base",
+    "projects/task_base",
+    "projects",
     "Tasks/projects/task_base/Create settings.md",
+    "Tasks/personal/Get some exercise.md",
     "Tasks/personal",
     "Tasks/Tasks/projects/task_base/Create settings 2.md",
     "Tasks/Tasks/projects/task_base",
@@ -193,9 +193,6 @@
     "Tasks/projects",
     "hello/Task name.md",
     "Tasks",
-    "Scratch/output/bases/tb_dashboard.base",
-    "hello",
-    "Scratch/output/bases/dashboard.base",
     "Templates/Core/Daily.md",
     "Templates/Core/Task.md",
     "Templates/Core/Weekly.md",

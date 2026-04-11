@@ -1,23 +1,24 @@
-filters:
-  and:
-    - !sub filter\inThisFolder.yaml
-    - !sub filter\isTask.yaml
-    - !sub filter\notTemplate.yaml
-formulas:
-  Color: !sub formula\color.yaml
-properties:
-  file.name:
-    displayName: Task
-  note.effort_actual:
-    displayName: Eff. (A)
-  note.effort_projected:
-    displayName: Eff. (P)
-  note.priority:
-    displayName: P
-  note._formatted_effort:
-    displayName: Effort
-views:
-  - !sub view\focused.yaml
-  - !sub view\due.yaml
-  - !sub view\unresolved.yaml
-  - !sub view\resolved.yaml
+content: |-
+  filters:
+    and:
+      - !sub filter\inThisFolder.yaml
+      - !sub filter\isTask.yaml
+      - !sub filter\notTemplate.yaml
+  formulas:
+    Color: !sub formula\color.yaml
+  properties:
+    file.name:
+      displayName: Task
+    note.effort_actual:
+      displayName: Eff. (A)
+    note.effort_projected:
+      displayName: Eff. (P)
+    note.priority:
+      displayName: P
+    note._formatted_effort:
+      displayName: Effort
+  views:
+    - !sub view\focused.yaml
+    - !sub view\due.yaml
+    - !sub view\unresolved.yaml
+    - !sub view\resolved.yaml
